@@ -48,7 +48,7 @@ The project uses two files:
 ## Repository Structure
 ```text
 Gene-Expression-Classification-ML/
-│── Gene_Expression_Classification.ipynb
+│── Gene-Expression-Classification.ipynb
 │── G13-TCGA-STAD_EX.csv
 │── G13-TCGA-STAD_Label.csv
 │── README.md
